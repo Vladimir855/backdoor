@@ -1,0 +1,6 @@
+requests==2.24.0
+cryptography==2.9.2
+PyAutoGUI==0.9.50
+pywin32==228
+pycryptodomex==3.9.8
+pynput==1.7.1
